@@ -1,0 +1,12 @@
+C:\Users\Abby\AppData\Local\Temporary Projects\scary maze\bin\Debug\scary maze.exe
+C:\Users\Abby\AppData\Local\Temporary Projects\scary maze\bin\Debug\scary maze.pdb
+C:\Users\Abby\AppData\Local\Temporary Projects\scary maze\bin\Debug\scary maze.xml
+C:\Users\Abby\AppData\Local\Temporary Projects\scary maze\obj\x86\Debug\scary_maze.Form1.resources
+C:\Users\Abby\AppData\Local\Temporary Projects\scary maze\obj\x86\Debug\scary_maze.Form2.resources
+C:\Users\Abby\AppData\Local\Temporary Projects\scary maze\obj\x86\Debug\scary_maze.Resources.resources
+C:\Users\Abby\AppData\Local\Temporary Projects\scary maze\obj\x86\Debug\scary maze.vbproj.GenerateResource.Cache
+C:\Users\Abby\AppData\Local\Temporary Projects\scary maze\obj\x86\Debug\scary maze.exe
+C:\Users\Abby\AppData\Local\Temporary Projects\scary maze\obj\x86\Debug\scary maze.xml
+C:\Users\Abby\AppData\Local\Temporary Projects\scary maze\obj\x86\Debug\scary maze.pdb
+C:\Users\Abby\AppData\Local\Temporary Projects\scary maze\obj\x86\Debug\scary_maze.Form3.resources
+C:\Users\Abby\AppData\Local\Temporary Projects\scary maze\obj\x86\Debug\scary_maze.Form5.resources

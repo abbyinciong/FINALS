@@ -1,0 +1,14 @@
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\FINALS\FINALS\bin\Debug\FINALS.exe
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\FINALS\FINALS\bin\Debug\FINALS.pdb
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\FINALS\FINALS\bin\Debug\FINALS.xml
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\FINALS\FINALS\obj\x86\Debug\scary_maze.Form1.resources
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\FINALS\FINALS\obj\x86\Debug\scary_maze.Form2.resources
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\FINALS\FINALS\obj\x86\Debug\scary_maze.Form3.resources
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\FINALS\FINALS\obj\x86\Debug\scary_maze.Form4.resources
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\FINALS\FINALS\obj\x86\Debug\scary_maze.Form5.resources
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\FINALS\FINALS\obj\x86\Debug\scary_maze.Resources.resources
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\FINALS\FINALS\obj\x86\Debug\FINALS.vbproj.GenerateResource.Cache
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\FINALS\FINALS\obj\x86\Debug\FINALS.exe
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\FINALS\FINALS\obj\x86\Debug\FINALS.xml
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\FINALS\FINALS\obj\x86\Debug\FINALS.pdb
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\FINALS\FINALS\obj\x86\Debug\scary_maze.Form6.resources
