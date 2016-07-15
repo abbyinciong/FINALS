@@ -1,0 +1,12 @@
+C:\Users\Abby\AppData\Local\Temporary Projects\nextlevel\bin\Debug\nextlevel.exe
+C:\Users\Abby\AppData\Local\Temporary Projects\nextlevel\bin\Debug\nextlevel.pdb
+C:\Users\Abby\AppData\Local\Temporary Projects\nextlevel\bin\Debug\nextlevel.xml
+C:\Users\Abby\AppData\Local\Temporary Projects\nextlevel\obj\x86\Debug\nextlevel.Form1.resources
+C:\Users\Abby\AppData\Local\Temporary Projects\nextlevel\obj\x86\Debug\nextlevel.Resources.resources
+C:\Users\Abby\AppData\Local\Temporary Projects\nextlevel\obj\x86\Debug\nextlevel.vbproj.GenerateResource.Cache
+C:\Users\Abby\AppData\Local\Temporary Projects\nextlevel\obj\x86\Debug\nextlevel.exe
+C:\Users\Abby\AppData\Local\Temporary Projects\nextlevel\obj\x86\Debug\nextlevel.xml
+C:\Users\Abby\AppData\Local\Temporary Projects\nextlevel\obj\x86\Debug\nextlevel.pdb
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\nextlevel\nextlevel\obj\x86\Debug\nextlevel.exe
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\nextlevel\nextlevel\obj\x86\Debug\nextlevel.xml
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\nextlevel\nextlevel\obj\x86\Debug\nextlevel.pdb
