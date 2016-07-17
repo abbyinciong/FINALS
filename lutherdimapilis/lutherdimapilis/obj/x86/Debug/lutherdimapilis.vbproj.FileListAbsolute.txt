@@ -1,0 +1,13 @@
+C:\Users\Abby\AppData\Local\Temporary Projects\lutherdimapilis\obj\x86\Debug\lutherdimapilis.Form1.resources
+C:\Users\Abby\AppData\Local\Temporary Projects\lutherdimapilis\obj\x86\Debug\lutherdimapilis.Form2.resources
+C:\Users\Abby\AppData\Local\Temporary Projects\lutherdimapilis\obj\x86\Debug\lutherdimapilis.Resources.resources
+C:\Users\Abby\AppData\Local\Temporary Projects\lutherdimapilis\obj\x86\Debug\lutherdimapilis.vbproj.GenerateResource.Cache
+C:\Users\Abby\AppData\Local\Temporary Projects\lutherdimapilis\bin\Debug\lutherdimapilis.exe
+C:\Users\Abby\AppData\Local\Temporary Projects\lutherdimapilis\bin\Debug\lutherdimapilis.pdb
+C:\Users\Abby\AppData\Local\Temporary Projects\lutherdimapilis\bin\Debug\lutherdimapilis.xml
+C:\Users\Abby\AppData\Local\Temporary Projects\lutherdimapilis\obj\x86\Debug\lutherdimapilis.exe
+C:\Users\Abby\AppData\Local\Temporary Projects\lutherdimapilis\obj\x86\Debug\lutherdimapilis.xml
+C:\Users\Abby\AppData\Local\Temporary Projects\lutherdimapilis\obj\x86\Debug\lutherdimapilis.pdb
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\lutherdimapilis\lutherdimapilis\obj\x86\Debug\lutherdimapilis.exe
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\lutherdimapilis\lutherdimapilis\obj\x86\Debug\lutherdimapilis.xml
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\lutherdimapilis\lutherdimapilis\obj\x86\Debug\lutherdimapilis.pdb
