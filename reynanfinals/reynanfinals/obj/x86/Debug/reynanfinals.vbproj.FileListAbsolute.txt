@@ -1,0 +1,19 @@
+C:\Users\Abby\AppData\Local\Temporary Projects\reynanfinals\obj\x86\Debug\reynanfinals.Form1.resources
+C:\Users\Abby\AppData\Local\Temporary Projects\reynanfinals\obj\x86\Debug\reynanfinals.Resources.resources
+C:\Users\Abby\AppData\Local\Temporary Projects\reynanfinals\obj\x86\Debug\reynanfinals.vbproj.GenerateResource.Cache
+C:\Users\Abby\AppData\Local\Temporary Projects\reynanfinals\bin\Debug\reynanfinals.exe
+C:\Users\Abby\AppData\Local\Temporary Projects\reynanfinals\bin\Debug\reynanfinals.pdb
+C:\Users\Abby\AppData\Local\Temporary Projects\reynanfinals\bin\Debug\reynanfinals.xml
+C:\Users\Abby\AppData\Local\Temporary Projects\reynanfinals\obj\x86\Debug\reynanfinals.exe
+C:\Users\Abby\AppData\Local\Temporary Projects\reynanfinals\obj\x86\Debug\reynanfinals.xml
+C:\Users\Abby\AppData\Local\Temporary Projects\reynanfinals\obj\x86\Debug\reynanfinals.pdb
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\reynanfinals\reynanfinals\obj\x86\Debug\reynanfinals.exe
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\reynanfinals\reynanfinals\obj\x86\Debug\reynanfinals.xml
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\reynanfinals\reynanfinals\obj\x86\Debug\reynanfinals.pdb
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\reynanfinals\reynanfinals\bin\Debug\reynanfinals.exe
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\reynanfinals\reynanfinals\bin\Debug\reynanfinals.pdb
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\reynanfinals\reynanfinals\bin\Debug\reynanfinals.xml
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\reynanfinals\reynanfinals\obj\x86\Debug\reynanfinals.Form1.resources
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\reynanfinals\reynanfinals\obj\x86\Debug\reynanfinals.Form2.resources
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\reynanfinals\reynanfinals\obj\x86\Debug\reynanfinals.Resources.resources
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\reynanfinals\reynanfinals\obj\x86\Debug\reynanfinals.vbproj.GenerateResource.Cache
