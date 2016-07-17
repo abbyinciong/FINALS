@@ -1,0 +1,13 @@
+C:\Users\Abby\AppData\Local\Temporary Projects\vincent\bin\Debug\vincent.exe
+C:\Users\Abby\AppData\Local\Temporary Projects\vincent\bin\Debug\vincent.pdb
+C:\Users\Abby\AppData\Local\Temporary Projects\vincent\bin\Debug\vincent.xml
+C:\Users\Abby\AppData\Local\Temporary Projects\vincent\obj\x86\Debug\vincent.Form1.resources
+C:\Users\Abby\AppData\Local\Temporary Projects\vincent\obj\x86\Debug\vincent.Form2.resources
+C:\Users\Abby\AppData\Local\Temporary Projects\vincent\obj\x86\Debug\vincent.Resources.resources
+C:\Users\Abby\AppData\Local\Temporary Projects\vincent\obj\x86\Debug\vincent.vbproj.GenerateResource.Cache
+C:\Users\Abby\AppData\Local\Temporary Projects\vincent\obj\x86\Debug\vincent.exe
+C:\Users\Abby\AppData\Local\Temporary Projects\vincent\obj\x86\Debug\vincent.xml
+C:\Users\Abby\AppData\Local\Temporary Projects\vincent\obj\x86\Debug\vincent.pdb
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\vincent\vincent\obj\x86\Debug\vincent.exe
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\vincent\vincent\obj\x86\Debug\vincent.xml
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\vincent\vincent\obj\x86\Debug\vincent.pdb
