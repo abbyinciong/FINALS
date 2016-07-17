@@ -1,0 +1,13 @@
+C:\Users\Abby\AppData\Local\Temporary Projects\delarosacyrus\bin\Debug\delarosacyrus.exe
+C:\Users\Abby\AppData\Local\Temporary Projects\delarosacyrus\bin\Debug\delarosacyrus.pdb
+C:\Users\Abby\AppData\Local\Temporary Projects\delarosacyrus\bin\Debug\delarosacyrus.xml
+C:\Users\Abby\AppData\Local\Temporary Projects\delarosacyrus\obj\x86\Debug\delarosacyrus.Form1.resources
+C:\Users\Abby\AppData\Local\Temporary Projects\delarosacyrus\obj\x86\Debug\delarosacyrus.Resources.resources
+C:\Users\Abby\AppData\Local\Temporary Projects\delarosacyrus\obj\x86\Debug\delarosacyrus.vbproj.GenerateResource.Cache
+C:\Users\Abby\AppData\Local\Temporary Projects\delarosacyrus\obj\x86\Debug\delarosacyrus.exe
+C:\Users\Abby\AppData\Local\Temporary Projects\delarosacyrus\obj\x86\Debug\delarosacyrus.xml
+C:\Users\Abby\AppData\Local\Temporary Projects\delarosacyrus\obj\x86\Debug\delarosacyrus.pdb
+C:\Users\Abby\AppData\Local\Temporary Projects\delarosacyrus\obj\x86\Debug\delarosacyrus.Form2.resources
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\delarosacyrus\delarosacyrus\obj\x86\Debug\delarosacyrus.exe
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\delarosacyrus\delarosacyrus\obj\x86\Debug\delarosacyrus.xml
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\delarosacyrus\delarosacyrus\obj\x86\Debug\delarosacyrus.pdb
