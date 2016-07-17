@@ -1,0 +1,13 @@
+C:\Users\Abby\AppData\Local\Temporary Projects\eugenefinals\bin\Debug\eugenefinals.exe
+C:\Users\Abby\AppData\Local\Temporary Projects\eugenefinals\bin\Debug\eugenefinals.pdb
+C:\Users\Abby\AppData\Local\Temporary Projects\eugenefinals\bin\Debug\eugenefinals.xml
+C:\Users\Abby\AppData\Local\Temporary Projects\eugenefinals\obj\x86\Debug\eugenefinals.Form1.resources
+C:\Users\Abby\AppData\Local\Temporary Projects\eugenefinals\obj\x86\Debug\eugenefinals.Form2.resources
+C:\Users\Abby\AppData\Local\Temporary Projects\eugenefinals\obj\x86\Debug\eugenefinals.Resources.resources
+C:\Users\Abby\AppData\Local\Temporary Projects\eugenefinals\obj\x86\Debug\eugenefinals.vbproj.GenerateResource.Cache
+C:\Users\Abby\AppData\Local\Temporary Projects\eugenefinals\obj\x86\Debug\eugenefinals.exe
+C:\Users\Abby\AppData\Local\Temporary Projects\eugenefinals\obj\x86\Debug\eugenefinals.xml
+C:\Users\Abby\AppData\Local\Temporary Projects\eugenefinals\obj\x86\Debug\eugenefinals.pdb
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\eugenefinals\eugenefinals\obj\x86\Debug\eugenefinals.exe
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\eugenefinals\eugenefinals\obj\x86\Debug\eugenefinals.xml
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\eugenefinals\eugenefinals\obj\x86\Debug\eugenefinals.pdb
