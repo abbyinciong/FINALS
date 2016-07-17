@@ -1,0 +1,19 @@
+C:\Users\Abby\AppData\Local\Temporary Projects\anthonyfinals\bin\Debug\anthonyfinals.exe
+C:\Users\Abby\AppData\Local\Temporary Projects\anthonyfinals\bin\Debug\anthonyfinals.pdb
+C:\Users\Abby\AppData\Local\Temporary Projects\anthonyfinals\bin\Debug\anthonyfinals.xml
+C:\Users\Abby\AppData\Local\Temporary Projects\anthonyfinals\obj\x86\Debug\anthonyfinals.Form1.resources
+C:\Users\Abby\AppData\Local\Temporary Projects\anthonyfinals\obj\x86\Debug\anthonyfinals.Resources.resources
+C:\Users\Abby\AppData\Local\Temporary Projects\anthonyfinals\obj\x86\Debug\anthonyfinals.vbproj.GenerateResource.Cache
+C:\Users\Abby\AppData\Local\Temporary Projects\anthonyfinals\obj\x86\Debug\anthonyfinals.exe
+C:\Users\Abby\AppData\Local\Temporary Projects\anthonyfinals\obj\x86\Debug\anthonyfinals.xml
+C:\Users\Abby\AppData\Local\Temporary Projects\anthonyfinals\obj\x86\Debug\anthonyfinals.pdb
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\anthonyfinals\anthonyfinals\obj\x86\Debug\anthonyfinals.exe
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\anthonyfinals\anthonyfinals\obj\x86\Debug\anthonyfinals.xml
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\anthonyfinals\anthonyfinals\obj\x86\Debug\anthonyfinals.pdb
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\anthonyfinals\anthonyfinals\bin\Debug\anthonyfinals.exe
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\anthonyfinals\anthonyfinals\bin\Debug\anthonyfinals.pdb
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\anthonyfinals\anthonyfinals\bin\Debug\anthonyfinals.xml
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\anthonyfinals\anthonyfinals\obj\x86\Debug\anthonyfinals.Form1.resources
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\anthonyfinals\anthonyfinals\obj\x86\Debug\anthonyfinals.Form2.resources
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\anthonyfinals\anthonyfinals\obj\x86\Debug\anthonyfinals.Resources.resources
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\anthonyfinals\anthonyfinals\obj\x86\Debug\anthonyfinals.vbproj.GenerateResource.Cache
