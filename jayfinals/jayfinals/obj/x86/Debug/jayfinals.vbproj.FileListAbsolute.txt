@@ -1,0 +1,10 @@
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\jayfinals\jayfinals\bin\Debug\jayfinals.exe
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\jayfinals\jayfinals\bin\Debug\jayfinals.pdb
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\jayfinals\jayfinals\bin\Debug\jayfinals.xml
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\jayfinals\jayfinals\obj\x86\Debug\jay.Form1.resources
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\jayfinals\jayfinals\obj\x86\Debug\jay.Form2.resources
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\jayfinals\jayfinals\obj\x86\Debug\jay.Resources.resources
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\jayfinals\jayfinals\obj\x86\Debug\jayfinals.vbproj.GenerateResource.Cache
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\jayfinals\jayfinals\obj\x86\Debug\jayfinals.exe
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\jayfinals\jayfinals\obj\x86\Debug\jayfinals.xml
+C:\Users\Abby\Desktop\studyprelims\abby'sworkprelim\abby'sworkprelim\jayfinals\jayfinals\obj\x86\Debug\jayfinals.pdb

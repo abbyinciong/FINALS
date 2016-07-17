@@ -1,0 +1,10 @@
+C:\Users\Abby\AppData\Local\Temporary Projects\jay\obj\x86\Debug\jay.Form1.resources
+C:\Users\Abby\AppData\Local\Temporary Projects\jay\obj\x86\Debug\jay.Resources.resources
+C:\Users\Abby\AppData\Local\Temporary Projects\jay\obj\x86\Debug\jay.vbproj.GenerateResource.Cache
+C:\Users\Abby\AppData\Local\Temporary Projects\jay\bin\Debug\jay.exe
+C:\Users\Abby\AppData\Local\Temporary Projects\jay\bin\Debug\jay.pdb
+C:\Users\Abby\AppData\Local\Temporary Projects\jay\bin\Debug\jay.xml
+C:\Users\Abby\AppData\Local\Temporary Projects\jay\obj\x86\Debug\jay.exe
+C:\Users\Abby\AppData\Local\Temporary Projects\jay\obj\x86\Debug\jay.xml
+C:\Users\Abby\AppData\Local\Temporary Projects\jay\obj\x86\Debug\jay.pdb
+C:\Users\Abby\AppData\Local\Temporary Projects\jay\obj\x86\Debug\jay.Form2.resources
